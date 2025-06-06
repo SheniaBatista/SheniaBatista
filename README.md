@@ -3,7 +3,7 @@
 **`Desenvolvedora Front-end`**
 
 Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Sistemas pela UNESA. 
-<br>Tenho foco em Front-End onde busco aplicar o que aprendi em pequenos projetos.<br/>
+<br>Busco aplicar o que aprendo em pequenos projetos pessoais. Gosto de usar python e Javascript.<br/>
 
 ---
 

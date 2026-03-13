@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Shenia Batista
 
-**`Desenvolvedora Front-end`**
+**`full stack developer`**
 
 Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Sistemas pela UNESA. 
-<br>Busco aplicar o que aprendo em pequenos projetos pessoais. Gosto de usar Python e Javascript.<br/>
+<br>Busco aplicar o que aprendo em projetos pessoais. Gosto de usar as linguagens Python, e Java.<br/>
 
 ---
 
@@ -17,6 +17,7 @@ Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Si
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -25,6 +26,7 @@ Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Si
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -43,7 +45,6 @@ Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Si
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Git" 
@@ -52,6 +53,7 @@ Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Si
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -61,6 +63,23 @@ Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Si
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<br/>
+<br/>

@@ -4,7 +4,6 @@
 
 Olá! Eu sou a Shenia 👋  
 Formada em Desenvolvimento de Sistemas pela UNESA e certificada pela AWS.  
-
 <br>Atualmente foco em aplicar meus conhecimentos em projetos pessoais, explorando principalmente Python e Java.<br/>
 
 

@@ -2,8 +2,11 @@
 
 **`full stack developer`**
 
-Meu nome é Shenia Batista, tenho 25 anos e sou formada em Desenvolvimento de Sistemas pela UNESA. 
-<br>Busco aplicar o que aprendo em projetos pessoais. Gosto de usar as linguagens Python, e Java.<br/>
+Olá! Eu sou a Shenia 👋  
+Formada em Desenvolvimento de Sistemas pela UNESA e certificada pela AWS.  
+
+<br>Atualmente foco em aplicar meus conhecimentos em projetos pessoais, explorando principalmente Python e Java.<br/>
+
 
 ---
 

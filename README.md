@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Shenia Batista
 
-Olá! Eu sou a Shenia 👋  Atuo como analista de desenvolvimento de TI jr e foco em aplicar meus conhecimentos em projetos pessoais, 
-<br>explorando principalmente as linguagens Python e Java.<br/>
+Olá! Eu sou a Shenia 👋  Atuo como analista de desenvolvimento de TI jr e foco em aplicar meus conhecimentos em projetos pessoais, explorando principalmente as linguagens Python e Java.
 
 ---
 
